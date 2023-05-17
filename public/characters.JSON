@@ -1,0 +1,103 @@
+[
+    {
+        "key": "SNS00",
+        "name":"Elsa",
+        "realName":"Idina Menzel",
+        "country":"USA",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/ct_frozen_elsa_18466_22a50822.jpeg?region=0,0,600,600&width=160",
+        "url": "https://frozen.disney.com/elsa",
+        "demand":9500000,
+        "aboutCharacter":"Elsa is the perfect mythic character – magical and larger than life. Grateful her kingdom now accepts her, she works hard to be a good queen. But deep down she can’t help but wonder why she was born with powers."
+    },
+    {
+        "key": "SNS01",
+        "name":"Anna",
+        "realName":"Kristen Bell",
+        "country":"USA",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/ct_frozen_anna_18466_6775584b.jpeg?region=0,0,600,600&width=160",
+        "url": "https://frozen.disney.com/anna",
+        "demand":9405000,
+        "aboutCharacter":"Anna is the perfect fairytale character; unflappable, she is the forever optimist. Anna is fine as long as she has her family, Arendelle is safe, and she never has to be alone again."
+    },
+    {
+        "key": "SNS02",
+        "name":"Kristoff",
+        "realName":"Jonathan Groff",
+        "country":"USA",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/ct_frozen_kristoff_18466_dd7ff541.jpeg?region=0,0,600,600&width=160",
+        "url": "https://frozen.disney.com/kristoff",
+        "demand":9001000,
+        "aboutCharacter":"A rugged mountain man and ice harvester by trade, Kristoff was a bit of a loner with his reindeer pal, Sven, until he met Anna. As Arendelle’s official Ice Master and Deliverer, Kristoff has found love with Anna and his new family: Elsa, Olaf and Sven."
+    },
+    {
+        "key": "SNS03",
+        "name":"Olaf",
+        "realName":"Josh Gad",
+        "country":"USA",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/ct_frozen_olaf_18466_eabe1344.jpeg?region=0,0,600,600&width=160",
+        "url": "https://frozen.disney.com/olaf",
+        "demand":9300000,
+        "aboutCharacter":"Created from Elsa’s magical powers, Olaf is by far the friendliest snowman in Arendelle. He is innocent, outgoing and loves all things summer. Olaf may be a bit naive, but his sincerity and good-natured temperament make him a true friend to Anna and Elsa."
+    },
+    {
+        "key": "SNS04",
+        "name":"Duke of Weselton",
+        "realName":"Alan Tudyk",
+        "country":"USA",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1lmf7be_651780d5.jpeg?region=0,0,450,450&width=160",
+        "url": "https://www.imdb.com/name/nm0876138/?ref_=ttfc_fc_cl_t6",
+        "demand":8400000,
+        "aboutCharacter":"What the Duke of Weselton lacks in stature, he makes up for in arrogance and showboating."
+    },
+    {
+        "key": "SNS05",
+        "name":"Hans",
+        "realName":"Santino Fontana",
+        "country":"USA",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-16im6ko_28911153.jpeg?region=0,0,450,450&width=160",
+        "url": "https://www.imdb.com/name/nm2949014/?ref_=ttfc_fc_cl_t5",
+        "demand":7000000,
+        "aboutCharacter":"Hans is a handsome royal from a neighboring kingdom who comes to Arendelle for Elsa's coronation."
+    },
+    {
+        "key": "SNS06",
+        "name":"Oaken",
+        "realName":"Chris Williams",
+        "country":"USA",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-2r9ayr_e4c2b692.jpeg?region=0,0,600,600&width=160",
+        "url": "https://www.imdb.com/title/tt2294629/characters/nm0930261?ref_=ttfc_fc_cl_t8",
+        "demand":6000000,
+        "aboutCharacter":"Oaken runs Wandering Oaken's Trading Post and Sauna."
+    },
+    {
+        "key": "SNS07",
+        "name":"Marshmallow",
+        "realName":"Jesse Corti",
+        "country":"USA",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1y778bt_9c31d7bc.jpeg?region=0,0,450,450&width=160",
+        "url": "https://www.imdb.com/name/nm0181425/?ref_=ttfc_fc_cl_t17",
+        "demand":5000000,
+        "aboutCharacter":"Marshmallow is an enormous icy snowman born from Elsa's powers."
+    },
+    {
+        "key": "SNS08",
+        "name":"Snowgies",
+        "realName":"Lewis Cleale",
+        "country":"Russia",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/character_frozen_snowgies_90c77a8a.jpeg?region=0,0,450,450&width=160",
+        "url": "https://www.imdb.com/name/nm3732165/?ref_=ttfc_fc_cl_t20",
+        "demand":4000000,
+        "aboutCharacter":"Snowgies are little snowmen Elsa unwittingly creates every time she sneezes—and she sneezes a lot."
+    },
+    {
+        "key": "SNS09",
+        "name":"Sven",
+        "realName":"Steve Apostolina",
+        "country":"USA",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1h21b0t_06ca1f89.jpeg?region=0,0,450,450&width=160",
+        "url": "https://www.imdb.com/name/nm0032151/?ref_=ttfc_fc_cl_t21",
+        "demand":30000000,
+        "aboutCharacter":"A reindeer with the heart of a Labrador, Sven is Kristoff's loyal friend, sleigh-puller and conscience."
+    }
+    
+]

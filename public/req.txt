@@ -1,0 +1,16 @@
+1.need to make data
+2.superhero,players,e commerce data is forbidden
+3.Name , Heading
+4. total budget text
+5.total 5 field , atleast 1 numeric
+6.need to use keys
+7.show name of the selected cards data
+7.total data selected
+8.total salary count
+
+bonus
+1. distructuring
+2.1 icon
+3.Readme file must contain project name , 3 bullets point of the project , project link
+5.design should be different
+6.propper code comments , structured project
